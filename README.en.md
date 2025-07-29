@@ -1,5 +1,9 @@
 **Roberto Stefani – 28/07/2025**
 
+## Licenza
+
+This project and contained data are licensed under the Creative Commons Attribution-NonCommercial 4.0 International License - see the [LICENSE](LICENSE) file for details.
+
 # Space-Energy Theory  
 ### A reinterpretation of mass and time as local effects of entropy and condensed energy
 ## Fundamental Postulates

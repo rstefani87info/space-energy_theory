@@ -1,6 +1,10 @@
 
 **Roberto Stefani – 28/07/2025**
 
+## Licenza
+
+Questo progetto e i dati contenuti sono licenziati sotto la Creative Commons Attribution-NonCommercial 4.0 International License - vedi il file [LICENSE](LICENSE) per i dettagli.
+
 # Teoria Spazio-Energia  
 ### Una rilettura della massa e del tempo come effetti locali di entropia e energia condensata
 ## Postulati fondamentali
